@@ -1,10 +1,10 @@
 # Diabetic-Retinopathy-Detection
 
 
-## 📌 Overview
+##  Overview
 This project uses Deep Learning to detect different stages of diabetic retinopathy from retinal fundus images. The model classifies images into five categories, helping demonstrate automated disease detection using computer vision.
 
-## 📂 Dataset
+## Dataset
 - Retinal fundus images
 - 5 classes:
   - No_DR
@@ -13,7 +13,7 @@ This project uses Deep Learning to detect different stages of diabetic retinopat
   - Severe
   - Proliferate_DR
 
-## 🛠 Technologies Used
+## Technologies Used
 - Python
 - TensorFlow / Keras
 - NumPy
@@ -22,24 +22,24 @@ This project uses Deep Learning to detect different stages of diabetic retinopat
 - Matplotlib
 - Jupyter Notebook
 
-## 🚀 Features
+##  Features
 - Image preprocessing
 - Data augmentation
 - Deep learning model training
 - Model evaluation
 - Prediction on retinal images
 
-## 📁 Repository Structure
+##  Repository Structure
 Advanced_DR_Detection.ipynb
 train.csv
 gaussian_filtered_images/
 README.md
 
-## ▶️ How to Run
+## How to Run
 1. Clone the repository
 2. Install dependencies
 3. Open the notebook
 4. Run all cells
 
-## 👩‍💻 Author
+## Author
 Lakshmi Ravithreyeni
